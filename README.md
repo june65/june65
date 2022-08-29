@@ -3,9 +3,9 @@
 
 #### Top Repositories
 
-<a href="https://github.com/june65/Computer_vision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=june65&repo=Computer_vision&theme=buefy" />
+<a href="https://github.com/gdsckoreahackathon2022/35_GISTree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdsckoreahackathon2022&repo=35_GISTree&theme=buefy" />
 </a>
-<a href="https://github.com/june65/animalpose_study">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=june65&repo=animalpose_study&theme=buefy" />
+<a href="https://github.com/june65/dog_mbti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=june65&repo=dog_mbti&theme=buefy" />
 </a>
