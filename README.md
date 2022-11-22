@@ -6,6 +6,6 @@
 <a href="https://github.com/gdsckoreahackathon2022/35_GISTree">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdsckoreahackathon2022&repo=35_GISTree&theme=buefy" />
 </a>
-<a href="https://github.com/june65/dog_mbti">
+<a href="https://github.com/june65/OS_PintOS_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=june65&repo=OS_PintOS_project&theme=buefy" />
 </a>
