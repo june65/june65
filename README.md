@@ -7,5 +7,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdsckoreahackathon2022&repo=35_GISTree&theme=buefy" />
 </a>
 <a href="https://github.com/june65/dog_mbti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=june65&repo=dog_mbti&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=june65&repo=OS_PintOS_project&theme=buefy" />
 </a>
